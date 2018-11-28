@@ -4,6 +4,10 @@ Hardware-based user interface for music.
 
 Uses two-sided cards -- one with album art, back with QR codes, to control your music player (mopidy or spotify).
 
+## Demo
+
+Demo video from 2016: https://ixd.ai/musiccard .. an update is due soon =)
+
 ## History
 
 - 2012 :: initial concept inspired by RFID/NFC-based cards
